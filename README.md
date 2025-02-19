@@ -1,10 +1,10 @@
-## Foundry Fund Me
+# Foundry Fund Me
 
-### About
+## About
 
 **This is a crowdsourcing app, made by following along in the cyfrin updraft course**
 
-# Getting Started
+## Getting Started
 
 ## Requirements
 
